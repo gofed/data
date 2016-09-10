@@ -1,0 +1,1 @@
+{"commit": "c7bacac2b21ca01afa1dee0acf64df3ce047c28f", "artefact": "golang-project-content-metadata", "repository": {"username": "golang", "project": "lint", "provider": "github"}, "metadata": {"licenses": [{"type": "BSD (3 clause)", "file": "LICENSE"}], "docs": ["README.md", "CONTRIBUTING.md"], "non_go_directories": ["misc"], "dependency_directories": []}}

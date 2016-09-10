@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-emicklei-go-restful-1.1.3-0.10.gitbdfb7d4.fc25", "commit": "bdfb7d41639a84ea7c36df648e5865cd9fbf21e2", "distribution": "rawhide", "packages": [], "rpm": "golang-github-emicklei-go-restful-unit-test-1.1.3-0.10.gitbdfb7d4.fc25.armv7hl.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-syndtr-goleveldb-0-0.7.git012f65f.fc25", "commit": "012f65f74744ed62a80abac6e9a8c86e71c2b6fa", "distribution": "rawhide", "packages": [], "rpm": "golang-github-syndtr-goleveldb-unit-test-0-0.7.git012f65f.fc25.armv7hl.rpm"}

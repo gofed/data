@@ -1,0 +1,1 @@
+{"commit": "fbe9fb6ad5b5f35b3e82a7c21123cfc526cbf895", "artefact": "golang-project-content-metadata", "repository": {"username": "Masterminds", "project": "vcs", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "LICENSE.txt"}], "docs": ["CHANGELOG.md", "README.md"], "non_go_directories": [], "dependency_directories": []}}

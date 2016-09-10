@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-Shopify-sarama-1.7.0-0.2.git87ec8d7.fc25", "commit": "87ec8d76e89cc002ff5673ee7598ae1db2f32424", "distribution": "rawhide", "packages": [], "rpm": "golang-github-Shopify-sarama-unit-test-devel-1.7.0-0.2.git87ec8d7.fc25.armv7hl.rpm"}

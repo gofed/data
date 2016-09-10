@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-smartystreets-go-aws-auth-0-0.5.git1f0db8c.fc25", "commit": "1f0db8c0ee6362470abe06a94e3385927ed72a4b", "distribution": "rawhide", "packages": [], "rpm": "golang-github-smartystreets-go-aws-auth-unit-test-0-0.5.git1f0db8c.fc25.i686.rpm"}

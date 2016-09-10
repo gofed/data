@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-net-rpc-msgpackrpc-0-0.8.gita14192a.fc25", "commit": "a14192a58a694c123d8fe5481d4a4727d6ae82f3", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-net-rpc-msgpackrpc-unit-test-0-0.8.gita14192a.fc25.x86_64.rpm"}

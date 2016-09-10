@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "k8s.io/heapster", "build": "golang-github-kubernetes-heapster-0.16.1-4.fc25", "commit": "0e1b652781812dee2c51c75180fc590223e0b9c6", "distribution": "rawhide", "rpm": "golang-github-kubernetes-heapster-devel-0.16.1-4.fc25.noarch.rpm"}

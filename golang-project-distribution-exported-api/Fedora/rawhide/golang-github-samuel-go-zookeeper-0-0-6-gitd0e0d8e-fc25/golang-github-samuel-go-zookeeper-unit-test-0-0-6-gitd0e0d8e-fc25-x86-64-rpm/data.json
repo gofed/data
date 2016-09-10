@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-samuel-go-zookeeper-0-0.6.gitd0e0d8e.fc25", "commit": "d0e0d8e11f318e000a8cc434616d69e329edc374", "distribution": "rawhide", "packages": [], "rpm": "golang-github-samuel-go-zookeeper-unit-test-0-0.6.gitd0e0d8e.fc25.x86_64.rpm"}

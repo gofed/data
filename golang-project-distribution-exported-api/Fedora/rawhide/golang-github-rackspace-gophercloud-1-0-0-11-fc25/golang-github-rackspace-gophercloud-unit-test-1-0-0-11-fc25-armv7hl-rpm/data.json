@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-rackspace-gophercloud-1.0.0-11.fc25", "commit": "f3ced00552c1c7d4a6184500af9062cfb4ff4463", "distribution": "rawhide", "packages": [], "rpm": "golang-github-rackspace-gophercloud-unit-test-1.0.0-11.fc25.armv7hl.rpm"}

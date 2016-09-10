@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-cockroachdb-cmux-0-0.1.git112f050.fc25", "commit": "112f0506e7743d64a6eb8fedbcff13d9979bbf92", "distribution": "rawhide", "packages": [], "rpm": "golang-github-cockroachdb-cmux-unit-test-devel-0-0.1.git112f050.fc25.x86_64.rpm"}

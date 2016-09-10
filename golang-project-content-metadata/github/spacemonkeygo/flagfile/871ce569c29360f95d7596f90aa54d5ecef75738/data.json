@@ -1,0 +1,1 @@
+{"commit": "871ce569c29360f95d7596f90aa54d5ecef75738", "artefact": "golang-project-content-metadata", "repository": {"username": "spacemonkeygo", "project": "flagfile", "provider": "github"}, "metadata": {"licenses": [{"type": "*No copyright* UNKNOWN", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

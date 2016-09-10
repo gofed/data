@@ -1,0 +1,1 @@
+{"commit": "8d0431362b544d1a3536cca26684828866a7de09", "artefact": "golang-project-content-metadata", "repository": {"username": "Masterminds", "project": "semver", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "LICENSE.txt"}], "docs": ["CHANGELOG.md", "README.md"], "non_go_directories": [], "dependency_directories": []}}

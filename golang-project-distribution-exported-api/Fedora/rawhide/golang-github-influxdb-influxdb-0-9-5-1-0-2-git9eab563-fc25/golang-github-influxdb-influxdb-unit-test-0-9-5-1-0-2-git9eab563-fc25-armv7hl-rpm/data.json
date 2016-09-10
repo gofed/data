@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-influxdb-influxdb-0.9.5.1-0.2.git9eab563.fc25", "commit": "9eab56311373ee6f788ae5dfc87e2240038f0eb4", "distribution": "rawhide", "packages": [], "rpm": "golang-github-influxdb-influxdb-unit-test-0.9.5.1-0.2.git9eab563.fc25.armv7hl.rpm"}

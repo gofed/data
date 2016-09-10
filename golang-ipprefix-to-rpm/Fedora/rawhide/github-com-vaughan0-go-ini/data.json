@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/vaughan0/go-ini", "build": "golang-github-vaughan0-go-ini-0-0.8.gita98ad7e.fc25", "commit": "a98ad7ee00ec53921f08832bc06ecf7fd600e6a1", "distribution": "rawhide", "rpm": "golang-github-vaughan0-go-ini-devel-0-0.8.gita98ad7e.fc25.noarch.rpm"}

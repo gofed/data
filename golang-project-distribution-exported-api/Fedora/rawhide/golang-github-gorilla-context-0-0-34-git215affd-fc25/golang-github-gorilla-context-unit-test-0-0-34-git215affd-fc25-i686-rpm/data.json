@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-gorilla-context-0-0.34.git215affd.fc25", "commit": "215affda49addc4c8ef7e2534915df2c8c35c6cd", "distribution": "rawhide", "packages": [], "rpm": "golang-github-gorilla-context-unit-test-0-0.34.git215affd.fc25.i686.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-mitchellh-mapstructure-0-0.11.git281073e.fc25", "commit": "281073eb9eb092240d33ef253c404f1cca550309", "distribution": "rawhide", "packages": [], "rpm": "golang-github-mitchellh-mapstructure-unit-test-0-0.11.git281073e.fc25.x86_64.rpm"}

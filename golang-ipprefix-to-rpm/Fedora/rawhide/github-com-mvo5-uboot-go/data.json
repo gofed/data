@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/mvo5/uboot-go", "build": "golang-github-mvo5-uboot-go-0-0.1.git361f6eb.fc25", "commit": "361f6ebcbb54f389d15dc9faefa000e996ba3e37", "distribution": "rawhide", "rpm": "golang-github-mvo5-uboot-go-devel-0-0.1.git361f6eb.fc25.noarch.rpm"}

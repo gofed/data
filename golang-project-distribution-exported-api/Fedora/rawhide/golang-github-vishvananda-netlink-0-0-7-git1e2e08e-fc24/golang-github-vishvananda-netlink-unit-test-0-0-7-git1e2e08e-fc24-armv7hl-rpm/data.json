@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-vishvananda-netlink-0-0.7.git1e2e08e.fc24", "commit": "1e2e08e8a2dcdacaae3f14ac44c5cfa31361f270", "distribution": "rawhide", "packages": [], "rpm": "golang-github-vishvananda-netlink-unit-test-0-0.7.git1e2e08e.fc24.armv7hl.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "code.google.com/p/go.tools", "build": "golang-googlecode-tools-0-10.1.git1cdaff4.fc25", "commit": "1cdaff4a02c554c9fb39dda0b56241c5f0949d91", "distribution": "rawhide", "rpm": "golang-googlecode-tools-devel-0-10.1.git1cdaff4.fc25.noarch.rpm"}
