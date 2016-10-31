@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/coreos/flannel", "build": "flannel-0.5.5-8.fc25", "commit": "cb8284fb60737793596dd2fc98d9608d3d0d66f0", "distribution": "rawhide", "rpm": "flannel-devel-0.5.5-8.fc25.noarch.rpm"}
