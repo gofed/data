@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-godbus-dbus-3-0.5.gitc7fdd8b.fc26", "commit": "c7fdd8b5cd55e87b4e1f4e372cdb1db61dd6c66f", "distribution": "rawhide", "packages": [], "rpm": "golang-github-godbus-dbus-unit-test-3-0.5.gitc7fdd8b.fc26.x86_64.rpm"}
