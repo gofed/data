@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/pkg/sftp", "build": "golang-github-pkg-sftp-0-0.1.git8197a2e.fc26", "commit": "8197a2e580736b78d704be0fc47b2324c0591a32", "distribution": "rawhide", "rpm": "golang-github-pkg-sftp-devel-0-0.1.git8197a2e.fc26.noarch.rpm"}

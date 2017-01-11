@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/pkg/errors", "build": "golang-github-pkg-errors-0.7.1-0.2.gita887431.fc26", "commit": "a887431f7f6ef7687b556dbf718d9f351d4858a0", "distribution": "rawhide", "rpm": "golang-github-pkg-errors-devel-0.7.1-0.2.gita887431.fc26.noarch.rpm"}
