@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "runc-1.0.0-4.rc2.gitc91b5be.fc26", "commit": "c91b5bea4830a57eac7882d7455d59518cdf70ec", "distribution": "rawhide", "packages": [], "rpm": "runc-unit-test-1.0.0-4.rc2.gitc91b5be.fc26.x86_64.rpm"}
