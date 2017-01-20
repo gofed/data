@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/cloudfoundry-incubator/candiedyaml", "build": "golang-github-cloudfoundry-incubator-candiedyaml-0-0.1.git99c3df8.fc26", "commit": "99c3df83b51532e3615f851d8c2dbb638f5313bf", "distribution": "rawhide", "rpm": "golang-github-cloudfoundry-incubator-candiedyaml-devel-0-0.1.git99c3df8.fc26.noarch.rpm"}

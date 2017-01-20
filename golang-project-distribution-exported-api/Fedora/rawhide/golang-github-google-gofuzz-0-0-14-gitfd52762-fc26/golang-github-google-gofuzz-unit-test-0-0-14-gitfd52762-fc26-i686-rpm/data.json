@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-google-gofuzz-0-0.14.gitfd52762.fc26", "commit": "fd52762d25a41827db7ef64c43756fd4b9f7e382", "distribution": "rawhide", "packages": [], "rpm": "golang-github-google-gofuzz-unit-test-0-0.14.gitfd52762.fc26.i686.rpm"}
