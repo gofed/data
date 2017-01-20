@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-garyburd-redigo-0-0.7.git3e4727f.fc25", "commit": "3e4727f0ef5938d3a846cdb57e560dba4419e854", "distribution": "rawhide", "packages": [], "rpm": "golang-github-garyburd-redigo-unit-test-0-0.7.git3e4727f.fc25.ppc64le.rpm"}
