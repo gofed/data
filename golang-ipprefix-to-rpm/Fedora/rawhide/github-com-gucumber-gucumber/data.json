@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/gucumber/gucumber", "build": "golang-github-lsegal-gucumber-0-0.5.git71608e2.fc26", "commit": "71608e2f6e76fd4da5b09a376aeec7a5c0b5edbc", "distribution": "rawhide", "rpm": "golang-github-lsegal-gucumber-devel-0-0.5.git71608e2.fc26.noarch.rpm"}
