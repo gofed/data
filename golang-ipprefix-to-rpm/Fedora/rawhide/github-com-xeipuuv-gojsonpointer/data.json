@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/xeipuuv/gojsonpointer", "build": "golang-github-xeipuuv-gojsonpointer-0-0.1.gite0fe6f6.fc26", "commit": "e0fe6f68307607d540ed8eac07a342c33fa1b54a", "distribution": "rawhide", "rpm": "golang-github-xeipuuv-gojsonpointer-devel-0-0.1.gite0fe6f6.fc26.noarch.rpm"}
