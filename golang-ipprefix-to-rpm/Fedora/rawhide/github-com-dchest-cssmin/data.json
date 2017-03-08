@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/dchest/cssmin", "build": "golang-github-dchest-cssmin-0-0.3.gitfb8d9b4.fc27", "commit": "fb8d9b44afdc258bfff6052d3667521babcb2239", "distribution": "rawhide", "rpm": "golang-github-dchest-cssmin-devel-0-0.3.gitfb8d9b4.fc27.noarch.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-scada-client-0-0.8.git84989fd.fc26", "commit": "84989fd23ad4cc0e7ad44d6a871fd793eb9beb0a", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-scada-client-unit-test-0-0.8.git84989fd.fc26.ppc64.rpm"}

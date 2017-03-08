@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/chmduquesne/rollinghash", "build": "golang-github-chmduquesne-rollinghash-2.0.2-0.1.git56b51d0.fc27", "commit": "56b51d0c3f8a16682efafcd2d5859f10db4f9bdd", "distribution": "rawhide", "rpm": "golang-github-chmduquesne-rollinghash-devel-2.0.2-0.1.git56b51d0.fc27.noarch.rpm"}

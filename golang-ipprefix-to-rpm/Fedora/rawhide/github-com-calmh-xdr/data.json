@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/calmh/xdr", "build": "golang-github-calmh-xdr-2.0.0-0.1.git08e072f.fc27", "commit": "08e072f9cb164f943a92eb59f90f3abc64ac6e8f", "distribution": "rawhide", "rpm": "golang-github-calmh-xdr-devel-2.0.0-0.1.git08e072f.fc27.noarch.rpm"}

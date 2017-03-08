@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-julienschmidt-httprouter-1.1-6.fc26", "commit": "6aacfd5ab513e34f7e64ea9627ab9670371b34e7", "distribution": "rawhide", "packages": [], "rpm": "golang-github-julienschmidt-httprouter-unit-test-1.1-6.fc26.aarch64.rpm"}

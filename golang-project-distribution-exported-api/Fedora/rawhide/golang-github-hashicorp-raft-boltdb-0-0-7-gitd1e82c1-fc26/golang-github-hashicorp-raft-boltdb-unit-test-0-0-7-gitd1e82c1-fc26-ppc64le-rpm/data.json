@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-raft-boltdb-0-0.7.gitd1e82c1.fc26", "commit": "d1e82c1ec3f15ee991f7cc7ffd5b67ff6f5bbaee", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-raft-boltdb-unit-test-0-0.7.gitd1e82c1.fc26.ppc64le.rpm"}

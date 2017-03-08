@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-bkaradzic-go-lz4-1.0.0-1.fc27", "commit": "74ddf82598bc4745b965729e9c6a463bedd33049", "distribution": "rawhide", "packages": [], "rpm": "golang-github-bkaradzic-go-lz4-unit-test-devel-1.0.0-1.fc27.ppc64.rpm"}

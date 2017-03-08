@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/calmh/du", "build": "golang-github-calmh-du-1.0.0-1.fc27", "commit": "3c0690cca16228b97741327b1b6781397afbdb24", "distribution": "rawhide", "rpm": "golang-github-calmh-du-devel-1.0.0-1.fc27.noarch.rpm"}

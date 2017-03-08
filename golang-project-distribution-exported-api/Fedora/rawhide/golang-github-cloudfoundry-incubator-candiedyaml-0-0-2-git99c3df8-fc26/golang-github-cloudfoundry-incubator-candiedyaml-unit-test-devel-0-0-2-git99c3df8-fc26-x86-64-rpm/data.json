@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-cloudfoundry-incubator-candiedyaml-0-0.2.git99c3df8.fc26", "commit": "99c3df83b51532e3615f851d8c2dbb638f5313bf", "distribution": "rawhide", "packages": [], "rpm": "golang-github-cloudfoundry-incubator-candiedyaml-unit-test-devel-0-0.2.git99c3df8.fc26.x86_64.rpm"}

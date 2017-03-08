@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-circonus-labs-circonus-gometrics-0-0.1.gitd17a842.fc27", "commit": "d17a8420c36e800fcb46bbd4d2a15b93c68605ea", "distribution": "rawhide", "packages": [], "rpm": "golang-github-circonus-labs-circonus-gometrics-unit-test-devel-0-0.1.gitd17a842.fc27.ppc64le.rpm"}

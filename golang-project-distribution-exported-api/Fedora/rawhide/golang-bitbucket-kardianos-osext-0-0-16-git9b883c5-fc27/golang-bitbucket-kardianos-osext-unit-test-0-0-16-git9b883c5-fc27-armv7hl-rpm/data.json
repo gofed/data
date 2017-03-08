@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-bitbucket-kardianos-osext-0-0.16.git9b883c5.fc27", "commit": "9b883c5eb462dd5cb1b0a7a104fe86bc6b9bd391", "distribution": "rawhide", "packages": [], "rpm": "golang-bitbucket-kardianos-osext-unit-test-0-0.16.git9b883c5.fc27.armv7hl.rpm"}

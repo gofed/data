@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-jmespath-go-jmespath-0.2.2-0.2.gitbd40a43.fc26", "commit": "bd40a432e4c76585ef6b72d3fd96fb9b6dc7b68d", "distribution": "rawhide", "packages": [], "rpm": "golang-github-jmespath-go-jmespath-unit-test-devel-0.2.2-0.2.gitbd40a43.fc26.armv7hl.rpm"}

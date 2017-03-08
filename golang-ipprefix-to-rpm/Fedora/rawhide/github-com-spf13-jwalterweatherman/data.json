@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/spf13/jwalterweatherman", "build": "golang-github-spf13-jWalterWeatherman-0-0.8.git33c24e7.fc27", "commit": "33c24e77fb80341fe7130ee7c594256ff08ccc46", "distribution": "rawhide", "rpm": "golang-github-spf13-jWalterWeatherman-devel-0-0.8.git33c24e7.fc27.noarch.rpm"}

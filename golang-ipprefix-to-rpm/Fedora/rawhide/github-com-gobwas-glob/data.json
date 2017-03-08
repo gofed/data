@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/gobwas/glob", "build": "golang-github-gobwas-glob-0.2.2-1.fc27", "commit": "bea32b9cd2d6f55753d94a28e959b13f0244797a", "distribution": "rawhide", "rpm": "golang-github-gobwas-glob-devel-0.2.2-1.fc27.noarch.rpm"}
