@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-coreos-go-systemd-10-4.fc27", "commit": "48702e0da86bd25e76cfef347e2adeb434a0d0a6", "distribution": "rawhide", "packages": [], "rpm": "golang-github-coreos-go-systemd-unit-test-10-4.fc27.ppc64.rpm"}

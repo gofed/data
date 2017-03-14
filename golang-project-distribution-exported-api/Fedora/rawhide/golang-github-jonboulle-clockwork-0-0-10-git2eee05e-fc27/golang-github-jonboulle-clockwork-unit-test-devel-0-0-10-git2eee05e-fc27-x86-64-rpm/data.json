@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-jonboulle-clockwork-0-0.10.git2eee05e.fc27", "commit": "2eee05ed794112d45db504eb05aa693efd2b8b09", "distribution": "rawhide", "packages": [], "rpm": "golang-github-jonboulle-clockwork-unit-test-devel-0-0.10.git2eee05e.fc27.x86_64.rpm"}
