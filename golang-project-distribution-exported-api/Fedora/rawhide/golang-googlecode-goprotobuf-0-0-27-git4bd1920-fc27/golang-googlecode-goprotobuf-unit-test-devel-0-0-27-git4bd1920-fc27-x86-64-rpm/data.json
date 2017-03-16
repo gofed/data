@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-googlecode-goprotobuf-0-0.27.git4bd1920.fc27", "commit": "4bd1920723d7b7c925de087aa32e2187708897f7", "distribution": "rawhide", "packages": [], "rpm": "golang-googlecode-goprotobuf-unit-test-devel-0-0.27.git4bd1920.fc27.x86_64.rpm"}
