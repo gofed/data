@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/oschwald/maxminddb-golang", "build": "golang-github-oschwald-maxminddb-golang-1.1.0-1.git697da80.fc27", "commit": "697da8075d2061aa8ed639346443f5d3e8c80b30", "distribution": "rawhide", "rpm": "golang-github-oschwald-maxminddb-golang-devel-1.1.0-1.git697da80.fc27.noarch.rpm"}
