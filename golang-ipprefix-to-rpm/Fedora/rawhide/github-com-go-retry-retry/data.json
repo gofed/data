@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/go-retry/retry", "build": "golang-gopkg-retry-v1-1-0.2.gitc09f6b8.fc27", "commit": "c09f6b86ba4d5d2cf5bdf0665364aec9fd4815db", "distribution": "rawhide", "rpm": "golang-gopkg-retry-v1-devel-1-0.2.gitc09f6b8.fc27.noarch.rpm"}
