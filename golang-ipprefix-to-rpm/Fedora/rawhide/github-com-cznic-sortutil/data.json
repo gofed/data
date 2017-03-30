@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/cznic/sortutil", "build": "golang-github-cznic-sortutil-0-0.1.git4c73428.fc27", "commit": "4c7342852e65c2088c981288f2c5610d10b9f7f4", "distribution": "rawhide", "rpm": "golang-github-cznic-sortutil-devel-0-0.1.git4c73428.fc27.noarch.rpm"}
