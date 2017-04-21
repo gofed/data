@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/cznic/b", "build": "golang-github-cznic-b-0-0.1.20170413.git6955404.fc27", "commit": "6955404bf550e1eae1bf83121739078b027f4547", "distribution": "rawhide", "rpm": "golang-github-cznic-b-devel-0-0.1.20170413.git6955404.fc27.noarch.rpm"}

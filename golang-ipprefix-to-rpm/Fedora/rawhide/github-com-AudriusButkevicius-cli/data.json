@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/AudriusButkevicius/cli", "build": "golang-github-AudriusButkevicius-cli-1.0.0-1.20140727.git7f561c7.fc27", "commit": "7f561c78b5a4aad858d9fd550c92b5da6d55efbb", "distribution": "rawhide", "rpm": "golang-github-AudriusButkevicius-cli-devel-1.0.0-1.20140727.git7f561c7.fc27.noarch.rpm"}

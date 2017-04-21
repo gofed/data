@@ -1,1 +1,1 @@
-{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/coreos/etcd", "build": "etcd-3.1.5-1.fc27", "commit": "20490caaf0dcd96bb4a95e40625559def8ef5b04", "distribution": "rawhide", "rpm": "etcd-devel-3.1.5-1.fc27.noarch.rpm"}
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/coreos/etcd", "build": "etcd-3.1.6-1.fc27", "commit": "e5b7ee2d03627ca33201da428b8110ef7c3e95f1", "distribution": "rawhide", "rpm": "etcd-devel-3.1.6-1.fc27.noarch.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/AudriusButkevicius/pfilter", "build": "golang-github-AudriusButkevicius-pfilter-0-0.1.20170209.git09b3cfd.fc27", "commit": "09b3cfdd04de89f0196caecb0b335d7149a6593a", "distribution": "rawhide", "rpm": "golang-github-AudriusButkevicius-pfilter-devel-0-0.1.20170209.git09b3cfd.fc27.noarch.rpm"}
