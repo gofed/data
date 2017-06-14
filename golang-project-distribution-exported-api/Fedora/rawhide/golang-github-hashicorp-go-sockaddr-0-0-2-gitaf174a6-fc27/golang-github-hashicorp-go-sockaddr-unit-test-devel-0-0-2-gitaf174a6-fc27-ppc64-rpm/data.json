@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-go-sockaddr-0-0.2.gitaf174a6.fc27", "commit": "af174a6fe6c9f9a049a638e1dae7bc4442c4d426", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-go-sockaddr-unit-test-devel-0-0.2.gitaf174a6.fc27.ppc64.rpm"}
