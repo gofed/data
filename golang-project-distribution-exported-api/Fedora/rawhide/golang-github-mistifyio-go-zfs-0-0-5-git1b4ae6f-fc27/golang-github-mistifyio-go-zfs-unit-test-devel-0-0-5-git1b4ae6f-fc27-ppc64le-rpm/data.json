@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-mistifyio-go-zfs-0-0.5.git1b4ae6f.fc27", "commit": "1b4ae6fb4e77b095934d4430860ff202060169f8", "distribution": "rawhide", "packages": [], "rpm": "golang-github-mistifyio-go-zfs-unit-test-devel-0-0.5.git1b4ae6f.fc27.ppc64le.rpm"}

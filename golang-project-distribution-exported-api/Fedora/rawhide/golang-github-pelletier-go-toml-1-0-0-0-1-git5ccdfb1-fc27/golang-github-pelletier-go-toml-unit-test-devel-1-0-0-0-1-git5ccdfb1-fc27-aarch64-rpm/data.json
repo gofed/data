@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-pelletier-go-toml-1.0.0-0.1.git5ccdfb1.fc27", "commit": "5ccdfb18c776b740aecaf085c4d9a2779199c279", "distribution": "rawhide", "packages": [], "rpm": "golang-github-pelletier-go-toml-unit-test-devel-1.0.0-0.1.git5ccdfb1.fc27.aarch64.rpm"}
