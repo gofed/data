@@ -1,0 +1,1 @@
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/cznic/zappy", "build": "golang-github-cznic-zappy-0-0.1.20160723.git2533cb5.fc27", "commit": "2533cb5b45cc6c07421468ce262899ddc9d53fb7", "distribution": "rawhide", "rpm": "golang-github-cznic-zappy-devel-0-0.1.20160723.git2533cb5.fc27.noarch.rpm"}
