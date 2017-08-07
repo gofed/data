@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-go-fsnotify-fsnotify-1.3.1-0.4.gitf12c623.fc27", "commit": "f12c6236fe7b5cf6bcf30e5935d08cb079d78334", "distribution": "rawhide", "packages": [], "rpm": "golang-github-go-fsnotify-fsnotify-unit-test-1.3.1-0.4.gitf12c623.fc27.aarch64.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-minio-sha256-simd-0-0.4.gitf3ec2e4.fc27", "commit": "f3ec2e4d36d43c3a899ed4b7d9f62188edcf5afd", "distribution": "rawhide", "packages": [], "rpm": "golang-github-minio-sha256-simd-unit-test-devel-0-0.4.gitf3ec2e4.fc27.armv7hl.rpm"}

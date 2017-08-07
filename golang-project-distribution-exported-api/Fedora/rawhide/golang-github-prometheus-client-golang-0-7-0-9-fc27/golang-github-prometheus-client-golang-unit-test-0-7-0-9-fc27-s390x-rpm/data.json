@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-prometheus-client_golang-0.7.0-9.fc27", "commit": "c5b7fccd204277076155f10851dad72b76a49317", "distribution": "rawhide", "packages": [], "rpm": "golang-github-prometheus-client_golang-unit-test-0.7.0-9.fc27.s390x.rpm"}

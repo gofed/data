@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-gorilla-mux-0-0.25.git8096f47.fc27", "commit": "8096f47503459bcc74d1f4c487b7e6e42e5746b5", "distribution": "rawhide", "packages": [], "rpm": "golang-github-gorilla-mux-unit-test-0-0.25.git8096f47.fc27.armv7hl.rpm"}

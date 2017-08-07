@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-mesos-mesos-go-0-0.9.git83b52d7.fc27", "commit": "83b52d7f648d2a2fa91330123d348d4090be2aed", "distribution": "rawhide", "packages": [], "rpm": "golang-github-mesos-mesos-go-unit-test-0-0.9.git83b52d7.fc27.s390x.rpm"}

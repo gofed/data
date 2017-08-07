@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-errwrap-0-0.8.git7554cd9.fc27", "commit": "7554cd9344cec97297fa6649b055a8c98c2a1e55", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-errwrap-unit-test-devel-0-0.8.git7554cd9.fc27.i686.rpm"}

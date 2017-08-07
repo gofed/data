@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-gonum-floats-0-0.7.git122fac7.fc27", "commit": "122fac76c8ac937d81ef57182b34ec1206cef1ec", "distribution": "rawhide", "packages": [], "rpm": "golang-github-gonum-floats-unit-test-0-0.7.git122fac7.fc27.ppc64le.rpm"}

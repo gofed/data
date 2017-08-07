@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-Masterminds-vcs-1.8.0-0.4.gitfbe9fb6.fc27", "commit": "fbe9fb6ad5b5f35b3e82a7c21123cfc526cbf895", "distribution": "rawhide", "packages": [], "rpm": "golang-github-Masterminds-vcs-unit-test-devel-1.8.0-0.4.gitfbe9fb6.fc27.aarch64.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-boltdb-bolt-1.3.0-0.5.git583e893.fc27", "commit": "583e8937c61f1af6513608ccc75c97b6abdf4ff9", "distribution": "rawhide", "packages": [], "rpm": "golang-github-boltdb-bolt-unit-test-1.3.0-0.5.git583e893.fc27.x86_64.rpm"}

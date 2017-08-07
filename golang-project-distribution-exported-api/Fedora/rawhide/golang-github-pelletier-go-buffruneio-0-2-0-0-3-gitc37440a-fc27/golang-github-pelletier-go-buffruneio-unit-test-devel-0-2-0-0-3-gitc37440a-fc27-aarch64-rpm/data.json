@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-pelletier-go-buffruneio-0.2.0-0.3.gitc37440a.fc27", "commit": "c37440a7cf42ac63b919c752ca73a85067e05992", "distribution": "rawhide", "packages": [], "rpm": "golang-github-pelletier-go-buffruneio-unit-test-devel-0.2.0-0.3.gitc37440a.fc27.aarch64.rpm"}

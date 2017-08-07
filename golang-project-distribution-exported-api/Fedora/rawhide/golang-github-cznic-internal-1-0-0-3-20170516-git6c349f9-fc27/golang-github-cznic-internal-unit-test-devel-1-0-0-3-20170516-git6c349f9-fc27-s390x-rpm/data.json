@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-cznic-internal-1.0.0-3.20170516.git6c349f9.fc27", "commit": "6c349f9353aa71ded7ed92820816fab0bef1784b", "distribution": "rawhide", "packages": [], "rpm": "golang-github-cznic-internal-unit-test-devel-1.0.0-3.20170516.git6c349f9.fc27.s390x.rpm"}

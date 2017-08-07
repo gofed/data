@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-go-multierror-0-0.12.gitd30f099.fc27", "commit": "d30f09973e19c1dfcd120b2d9c4f168e68d6b5d5", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-go-multierror-unit-test-0-0.12.gitd30f099.fc27.armv7hl.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-auth0-go-jwt-middleware-0.1-7.git8c897f7.fc27", "commit": "8c897f7c3631a9e9405b9496fd8ce241acdef230", "distribution": "rawhide", "packages": [], "rpm": "golang-github-auth0-go-jwt-middleware-unit-test-devel-0.1-7.git8c897f7.fc27.armv7hl.rpm"}

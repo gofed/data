@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-fsouza-go-dockerclient-0.2.1-21.git2350d7b.fc27", "commit": "2350d7bc12bb04f2d7d6824c7718012b1397b760", "distribution": "rawhide", "packages": [], "rpm": "golang-github-fsouza-go-dockerclient-unit-test-0.2.1-21.git2350d7b.fc27.x86_64.rpm"}

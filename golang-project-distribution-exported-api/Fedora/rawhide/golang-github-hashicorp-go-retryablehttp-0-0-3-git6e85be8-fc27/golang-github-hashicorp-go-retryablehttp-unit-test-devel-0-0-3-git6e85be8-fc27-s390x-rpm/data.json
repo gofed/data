@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-go-retryablehttp-0-0.3.git6e85be8.fc27", "commit": "6e85be8fee1dcaa02c0eaaac2df5a8fbecf94145", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-go-retryablehttp-unit-test-devel-0-0.3.git6e85be8.fc27.s390x.rpm"}
