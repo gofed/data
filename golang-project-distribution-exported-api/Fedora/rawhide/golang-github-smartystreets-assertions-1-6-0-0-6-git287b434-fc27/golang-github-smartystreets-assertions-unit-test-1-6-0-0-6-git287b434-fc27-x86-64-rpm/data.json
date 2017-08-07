@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-smartystreets-assertions-1.6.0-0.6.git287b434.fc27", "commit": "287b4346dc4e71a038c346375a9d572453bc469b", "distribution": "rawhide", "packages": [], "rpm": "golang-github-smartystreets-assertions-unit-test-1.6.0-0.6.git287b434.fc27.x86_64.rpm"}
