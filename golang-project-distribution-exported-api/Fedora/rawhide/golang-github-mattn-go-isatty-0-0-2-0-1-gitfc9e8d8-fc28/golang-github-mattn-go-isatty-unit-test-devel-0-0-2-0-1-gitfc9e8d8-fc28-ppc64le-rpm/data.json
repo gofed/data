@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-mattn-go-isatty-0.0.2-0.1.gitfc9e8d8.fc28", "commit": "fc9e8d8ef48496124e79ae0df75490096eccf6fe", "distribution": "rawhide", "packages": [], "rpm": "golang-github-mattn-go-isatty-unit-test-devel-0.0.2-0.1.gitfc9e8d8.fc28.ppc64le.rpm"}
