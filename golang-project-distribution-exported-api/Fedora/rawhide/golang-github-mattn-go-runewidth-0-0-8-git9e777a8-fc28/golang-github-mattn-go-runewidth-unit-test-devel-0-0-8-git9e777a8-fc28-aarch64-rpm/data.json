@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-mattn-go-runewidth-0-0.8.git9e777a8.fc28", "commit": "9e777a8366cce605130a531d2cd6363d07ad7317", "distribution": "rawhide", "packages": [], "rpm": "golang-github-mattn-go-runewidth-unit-test-devel-0-0.8.git9e777a8.fc28.aarch64.rpm"}

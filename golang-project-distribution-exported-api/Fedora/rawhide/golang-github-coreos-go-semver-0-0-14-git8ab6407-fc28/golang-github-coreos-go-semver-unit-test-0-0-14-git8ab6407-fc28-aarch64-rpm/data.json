@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-coreos-go-semver-0-0.14.git8ab6407.fc28", "commit": "8ab6407b697782a06568d4b7f1db25550ec2e4c6", "distribution": "rawhide", "packages": [], "rpm": "golang-github-coreos-go-semver-unit-test-0-0.14.git8ab6407.fc28.aarch64.rpm"}
