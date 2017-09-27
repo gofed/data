@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-go-ini-ini-1.21.1-0.5.git3d73f4b.fc28", "commit": "3d73f4b845efdf9989fffd4b4e562727744a34ba", "distribution": "rawhide", "packages": [], "rpm": "golang-github-go-ini-ini-unit-test-devel-1.21.1-0.5.git3d73f4b.fc28.ppc64le.rpm"}
