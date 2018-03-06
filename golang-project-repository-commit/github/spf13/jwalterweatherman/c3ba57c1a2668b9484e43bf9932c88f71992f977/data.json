@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1483462212, "adate": 1483462212, "commit": "c3ba57c1a2668b9484e43bf9932c88f71992f977", "message": "Remove unused id field\n"}

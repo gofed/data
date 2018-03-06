@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Herkermer Sherwood <theherk@gmail.com>", "cdate": 1481842150, "adate": 1481842150, "commit": "f3dd3ed75899e5da8859f60968dfbd7c70175f12", "message": "Modify new bytes.ContainsRune to backward compatible bytes.IndexRune\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Jamie Wilkinson <jaq@spacepants.org>", "cdate": 1471699634, "adate": 1426983848, "commit": "40ffa2c25cafb4db322e0b9b4c93d31d273dabe8", "message": "Fixes a data race caused by not locking the mem.FileData for read access.\n"}

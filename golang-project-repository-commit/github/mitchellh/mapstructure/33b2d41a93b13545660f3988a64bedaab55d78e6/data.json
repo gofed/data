@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1492819360, "adate": 1492819360, "commit": "33b2d41a93b13545660f3988a64bedaab55d78e6", "message": "Merge pull request #79 from abhinav/lint\n\nFix golint warnings"}

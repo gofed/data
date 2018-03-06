@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "bogem <albertnigma@gmail.com>", "cdate": 1474755845, "adate": 1474753268, "commit": "92abf1943761d39805d58c36456e757becf78b92", "message": "Optimize fmt statements\n"}

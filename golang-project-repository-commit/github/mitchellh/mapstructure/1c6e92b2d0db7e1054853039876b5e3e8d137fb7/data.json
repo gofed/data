@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "hori-ryota <hori_ryota@cyberagent.co.jp>", "cdate": 1495786940, "adate": 1495786940, "commit": "1c6e92b2d0db7e1054853039876b5e3e8d137fb7", "message": "Add decode_hook for time.Time\n"}

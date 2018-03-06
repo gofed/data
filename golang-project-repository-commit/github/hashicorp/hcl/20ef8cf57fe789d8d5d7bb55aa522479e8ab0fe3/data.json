@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Sean Chittenden <sean@chittenden.org>", "cdate": 1492729789, "adate": 1492729789, "commit": "20ef8cf57fe789d8d5d7bb55aa522479e8ab0fe3", "message": "Return an error instead of printing stray `illegal\\n` to stdout.\n"}

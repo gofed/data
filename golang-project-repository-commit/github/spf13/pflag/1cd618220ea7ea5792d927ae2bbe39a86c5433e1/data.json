@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234441, "adate": 1492720231, "commit": "1cd618220ea7ea5792d927ae2bbe39a86c5433e1", "message": "Prevent parsing if there are no arguments\n"}

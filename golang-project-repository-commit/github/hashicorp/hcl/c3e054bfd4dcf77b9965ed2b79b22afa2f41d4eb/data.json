@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1478994763, "adate": 1478994763, "commit": "c3e054bfd4dcf77b9965ed2b79b22afa2f41d4eb", "message": "Merge pull request #169 from jMarkP/duplicate-unit-test\n\nRemove duplicate unit test"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1473472575, "adate": 1473471936, "commit": "62ebf9354f42be95b417ac1e844ce0eb3d8e455d", "message": "hcl: don't escape ANYTHING in ${}, let lower layer handle it\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-olekukonko-tablewriter-0-0.9.gita0225b3.fc28", "commit": "a0225b3f23b5ce0cbec6d7a66a968f8a59eca9c4", "distribution": "rawhide", "packages": [], "rpm": "golang-github-olekukonko-tablewriter-unit-test-devel-0-0.9.gita0225b3.fc28.armv7hl.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1471370711, "adate": 1471370711, "commit": "4f9190456aed1c2113ca51ea9b89219747458dc1", "message": "Merge pull request #78 from moorereason/go1.7-zerovalues\n\nFix default value detection for Go 1.7"}

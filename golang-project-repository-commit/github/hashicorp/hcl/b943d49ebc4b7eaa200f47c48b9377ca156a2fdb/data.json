@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1487350053, "adate": 1487350053, "commit": "b943d49ebc4b7eaa200f47c48b9377ca156a2fdb", "message": "Update .travis.yml"}

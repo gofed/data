@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "emacsist <pgdba.yzy@gmail.com>", "cdate": 1479260034, "adate": 1479260034, "commit": "24b6558033ffe202bf42f0f3b870dcc798dd2ba8", "message": "Add \"yyyy-MM-dd HH:mm:ss\" string format\n\n"}

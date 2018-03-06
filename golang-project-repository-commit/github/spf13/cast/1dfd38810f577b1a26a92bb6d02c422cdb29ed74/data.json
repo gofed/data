@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488558856, "adate": 1488558426, "commit": "1dfd38810f577b1a26a92bb6d02c422cdb29ed74", "message": "Fix issues found by gosimple\n"}

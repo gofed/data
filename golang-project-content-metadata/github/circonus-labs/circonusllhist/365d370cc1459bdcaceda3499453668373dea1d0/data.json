@@ -1,0 +1,1 @@
+{"commit": "365d370cc1459bdcaceda3499453668373dea1d0", "artefact": "golang-project-content-metadata", "repository": {"username": "circonus-labs", "project": "circonusllhist", "provider": "github"}, "metadata": {"licenses": [{"type": "BSD (3 clause)", "file": "LICENSE"}], "docs": [], "non_go_directories": [], "dependency_directories": []}}

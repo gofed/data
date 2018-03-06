@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "M@ <m@cognusion.com>", "cdate": 1474316801, "adate": 1474316801, "commit": "60e7a69a428e9ac1cf7e0c865fc2fe810d34363e", "message": "Add ToBoolSlice()\n\nFixes #1"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1475898121, "adate": 1475898121, "commit": "3c8ec494b1259e2c4fabf10092d4ed92f524ce6a", "message": "hcl/printer: clean up some files, add subtests to testing printer\n"}

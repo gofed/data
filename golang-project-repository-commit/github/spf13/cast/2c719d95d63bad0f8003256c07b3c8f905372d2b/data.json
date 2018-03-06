@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488555893, "adate": 1488545610, "commit": "2c719d95d63bad0f8003256c07b3c8f905372d2b", "message": "Fix gofmt and golint errors\n"}

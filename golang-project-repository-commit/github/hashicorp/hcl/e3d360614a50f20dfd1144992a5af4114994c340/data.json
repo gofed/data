@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "James Nugent <james@jen20.com>", "cdate": 1472834898, "adate": 1472834898, "commit": "e3d360614a50f20dfd1144992a5af4114994c340", "message": "Revert \"Skip a nil item during filtering\"\n"}

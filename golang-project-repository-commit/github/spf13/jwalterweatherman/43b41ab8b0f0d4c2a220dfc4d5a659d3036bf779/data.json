@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1495546367, "adate": 1495530117, "commit": "43b41ab8b0f0d4c2a220dfc4d5a659d3036bf779", "message": "Get rid of prefix function\n"}

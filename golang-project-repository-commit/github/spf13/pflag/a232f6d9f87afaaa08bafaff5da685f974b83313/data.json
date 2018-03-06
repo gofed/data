@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1484861559, "adate": 1484861559, "commit": "a232f6d9f87afaaa08bafaff5da685f974b83313", "message": "Merge pull request #102 from bogem/redundant\n\nClean up code"}

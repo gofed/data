@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Nick Miyake <nmiyake@users.noreply.github.com>", "cdate": 1480828413, "adate": 1480828413, "commit": "09d4a23f57020403ee21ba255716634d73a506a9", "message": "Fix typo in documentation"}

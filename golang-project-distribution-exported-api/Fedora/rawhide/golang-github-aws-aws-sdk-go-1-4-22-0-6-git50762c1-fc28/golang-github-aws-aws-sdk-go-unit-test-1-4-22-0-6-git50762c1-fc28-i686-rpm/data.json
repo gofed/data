@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-aws-aws-sdk-go-1.4.22-0.6.git50762c1.fc28", "commit": "50762c1efc55dd2a05eac85fc170b0f65aeec28f", "distribution": "rawhide", "packages": [], "rpm": "golang-github-aws-aws-sdk-go-unit-test-1.4.22-0.6.git50762c1.fc28.i686.rpm"}

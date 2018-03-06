@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Vladislav Rassokhin <Vladislav.Rassokhin@jetbrains.com>", "cdate": 1480017590, "adate": 1469207607, "commit": "2b0eb1f52c2ce7e826002550ebdab698c1b594cb", "message": "Support multiline string literals in HCL only in HIL fragments\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1483968835, "adate": 1483968835, "commit": "fa7ca7e836cf3a8bb4ebf799f472c12d7e903d66", "message": "Add getters for the tresholds\n"}

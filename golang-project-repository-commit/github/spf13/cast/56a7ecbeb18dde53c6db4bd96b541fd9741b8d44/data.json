@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1482670608, "adate": 1482600303, "commit": "56a7ecbeb18dde53c6db4bd96b541fd9741b8d44", "message": "Add Unix epoch support to ToTimeE\n"}

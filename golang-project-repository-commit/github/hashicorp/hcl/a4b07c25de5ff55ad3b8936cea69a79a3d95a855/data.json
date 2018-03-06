@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "James Bardin <j.bardin@gmail.com>", "cdate": 1493924554, "adate": 1493924554, "commit": "a4b07c25de5ff55ad3b8936cea69a79a3d95a855", "message": "Merge pull request #173 from hashicorp/jbardin/crlf\n\nRemove CRLF line endings"}

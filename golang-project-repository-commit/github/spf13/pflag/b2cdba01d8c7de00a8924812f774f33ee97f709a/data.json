@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1471368222, "adate": 1471368222, "commit": "b2cdba01d8c7de00a8924812f774f33ee97f709a", "message": "Update travis config\n"}

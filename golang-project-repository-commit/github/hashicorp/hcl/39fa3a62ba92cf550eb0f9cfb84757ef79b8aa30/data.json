@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1484874450, "adate": 1484874450, "commit": "39fa3a62ba92cf550eb0f9cfb84757ef79b8aa30", "message": "Merge pull request #180 from hashicorp/b-bool-list\n\nhcl/parser: support bools in lists"}

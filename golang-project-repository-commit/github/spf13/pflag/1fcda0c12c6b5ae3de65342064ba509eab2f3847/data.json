@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "yuanxiao <yuan.xiao5@zte.com.cn>", "cdate": 1481676898, "adate": 1481676898, "commit": "1fcda0c12c6b5ae3de65342064ba509eab2f3847", "message": "too many arguments\n\nSigned-off-by: yuanxiao <yuan.xiao5@zte.com.cn>\n"}

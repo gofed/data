@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1483613709, "adate": 1483613709, "commit": "bccdd23ae5e51bd2b081814db093646c7af3d34d", "message": "Add String() func to Threshold\n"}

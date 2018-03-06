@@ -1,0 +1,1 @@
+{"commit": "ad45545899c7b13c020ea92b2072220eefad42b8", "artefact": "golang-project-content-metadata", "repository": {"username": "mitchellh", "project": "go-wordwrap", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "LICENSE.md"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

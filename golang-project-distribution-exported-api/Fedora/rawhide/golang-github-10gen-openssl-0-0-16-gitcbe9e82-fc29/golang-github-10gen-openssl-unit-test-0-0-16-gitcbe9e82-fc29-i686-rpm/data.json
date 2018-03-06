@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-10gen-openssl-0-0.16.gitcbe9e82.fc29", "commit": "cbe9e82b6ddfb1d9958d328877404157d313c649", "distribution": "rawhide", "packages": [], "rpm": "golang-github-10gen-openssl-unit-test-0-0.16.gitcbe9e82.fc29.i686.rpm"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Martin Milata <mmilata@redhat.com>", "cdate": 1476186790, "adate": 1476186790, "commit": "b027180f68d2dd09ce6a5b64a4e03b9413c8421e", "message": "Fix square bracket handling in string_array\n\nSame issue fixed in 13e924de for string_slice.\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1471275821, "adate": 1471275821, "commit": "01665e1eb3d0533dca0e5acffdff9eec1fcb886f", "message": "Merge pull request #85 from bogem/usage\n\nUse flag's string type in usage"}

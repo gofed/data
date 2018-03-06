@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234441, "adate": 1492591630, "commit": "4995a3e9cc2102264d261ecf6350a612ea05eb87", "message": "Make more detailed error in Set\n"}

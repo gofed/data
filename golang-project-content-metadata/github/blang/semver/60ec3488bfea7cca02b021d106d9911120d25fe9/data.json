@@ -1,0 +1,1 @@
+{"commit": "60ec3488bfea7cca02b021d106d9911120d25fe9", "artefact": "golang-project-content-metadata", "repository": {"username": "blang", "project": "semver", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

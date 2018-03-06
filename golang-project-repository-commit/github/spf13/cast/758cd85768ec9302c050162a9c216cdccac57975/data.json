@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488575827, "adate": 1488571912, "commit": "758cd85768ec9302c050162a9c216cdccac57975", "message": "Error on unsigned conversions of negative values\n"}

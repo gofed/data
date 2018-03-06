@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1483537589, "adate": 1483537589, "commit": "ef70f054fd0b4438ec4be55f2680b2a0f705675b", "message": "Set correct default log levels\n\nFixes #16\n"}

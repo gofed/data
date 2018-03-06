@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Gernot Eger <gernot.eger@gmail.com>", "cdate": 1481475073, "adate": 1481475073, "commit": "c8133301236f56ebcc7a132c819edcb951468938", "message": "#48: fixes for ptr and slice cases\n"}

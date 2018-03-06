@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Martin Bertschler <mbertschler@gmail.com>", "cdate": 1481221044, "adate": 1481221044, "commit": "22793e5c8b1afbd5a2bfdb64669ceb0b6a7fc4f2", "message": "Merge pull request #111 from harsimranmaan/gofmt\n\nKeep gofmt happy"}

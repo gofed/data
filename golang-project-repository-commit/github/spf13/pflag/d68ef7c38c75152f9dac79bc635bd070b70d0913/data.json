@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "wu8685 <optimuswu8685@gmail.com>", "cdate": 1471574472, "adate": 1471574472, "commit": "d68ef7c38c75152f9dac79bc635bd070b70d0913", "message": "Fix bug in FlagSet.GetStringSlice when a comma in a string slice value\n"}

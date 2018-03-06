@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-DATA-DOG-go-sqlmock-0.1.0-9.fc28", "commit": "ed4836e31d3e9e77420e442ed9b864df55370ee0", "distribution": "rawhide", "packages": [], "rpm": "golang-github-DATA-DOG-go-sqlmock-unit-test-0.1.0-9.fc28.s390x.rpm"}

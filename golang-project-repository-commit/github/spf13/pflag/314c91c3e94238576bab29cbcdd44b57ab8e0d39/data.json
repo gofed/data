@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234441, "adate": 1492943486, "commit": "314c91c3e94238576bab29cbcdd44b57ab8e0d39", "message": "Use comparison a string with \"\" instead of comparison of len\n"}

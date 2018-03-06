@@ -1,0 +1,1 @@
+{"commit": "99c3df83b51532e3615f851d8c2dbb638f5313bf", "artefact": "golang-project-content-metadata", "repository": {"username": "cloudfoundry-incubator", "project": "candiedyaml", "provider": "github"}, "metadata": {"licenses": [{"type": "*No copyright* GENERATED FILE", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": ["fixtures"], "dependency_directories": []}}

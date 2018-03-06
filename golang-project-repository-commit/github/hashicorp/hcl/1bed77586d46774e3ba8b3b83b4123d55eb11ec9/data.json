@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1485304008, "adate": 1485304008, "commit": "1bed77586d46774e3ba8b3b83b4123d55eb11ec9", "message": "hcl: print single heredoc elements properly\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488567350, "adate": 1488566353, "commit": "df9611b94225ae6caad3f237aea7da77030bf780", "message": "Refactor tests to get full coverage\n\nTest coverage goes from 75.6% to 100%\n"}

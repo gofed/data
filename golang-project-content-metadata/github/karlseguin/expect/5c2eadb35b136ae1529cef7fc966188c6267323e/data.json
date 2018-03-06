@@ -1,0 +1,1 @@
+{"commit": "5c2eadb35b136ae1529cef7fc966188c6267323e", "artefact": "golang-project-content-metadata", "repository": {"username": "karlseguin", "project": "expect", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "license.txt"}], "docs": ["readme.md"], "non_go_directories": [], "dependency_directories": []}}

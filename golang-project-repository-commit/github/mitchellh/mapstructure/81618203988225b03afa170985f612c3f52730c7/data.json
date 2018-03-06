@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Gernot Eger <gernot.eger@gmail.com>", "cdate": 1481473035, "adate": 1481473035, "commit": "81618203988225b03afa170985f612c3f52730c7", "message": "Tests to reproduce\n"}

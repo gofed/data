@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493297505, "adate": 1493297505, "commit": "f1d95a35e132e8a1868023a08932b14f0b8b8fcb", "message": "Unify error message for panic and f.out\n"}

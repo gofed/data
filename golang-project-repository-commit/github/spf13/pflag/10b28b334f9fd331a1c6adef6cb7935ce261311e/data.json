@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493961674, "adate": 1493961674, "commit": "10b28b334f9fd331a1c6adef6cb7935ce261311e", "message": "Add note about panic in ShorthandLookup\n"}

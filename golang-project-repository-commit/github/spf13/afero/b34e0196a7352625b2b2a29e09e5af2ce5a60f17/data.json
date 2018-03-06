@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "SonOfBytes <SonOfBytes@users.noreply.github.com>", "cdate": 1479833640, "adate": 1479833640, "commit": "b34e0196a7352625b2b2a29e09e5af2ce5a60f17", "message": "Update memmap.go\n\nremove unnecessary comment"}

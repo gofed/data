@@ -1,0 +1,1 @@
+{"commit": "cdac8253d00f2ecf0a0b19fbff173a9a72de4f82", "artefact": "golang-project-content-metadata", "repository": {"username": "mitchellh", "project": "copystructure", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

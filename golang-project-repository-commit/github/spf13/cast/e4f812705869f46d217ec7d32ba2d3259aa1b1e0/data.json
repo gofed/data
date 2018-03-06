@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "chyeh <chyeh@cepave.com>", "cdate": 1488552848, "adate": 1486710046, "commit": "e4f812705869f46d217ec7d32ba2d3259aa1b1e0", "message": "Add `ToInt8`, `ToInt16` and `ToInt32`\n"}

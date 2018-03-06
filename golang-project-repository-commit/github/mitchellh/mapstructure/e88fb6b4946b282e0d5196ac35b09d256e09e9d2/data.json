@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Zhao Jiangkun <jiangkun.zhao@ele.me>", "cdate": 1497499335, "adate": 1497499134, "commit": "e88fb6b4946b282e0d5196ac35b09d256e09e9d2", "message": "Fix panic on decode squashed in squashed struct\n"}

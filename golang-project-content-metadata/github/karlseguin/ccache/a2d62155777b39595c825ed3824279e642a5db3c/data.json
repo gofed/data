@@ -1,0 +1,1 @@
+{"commit": "a2d62155777b39595c825ed3824279e642a5db3c", "artefact": "golang-project-content-metadata", "repository": {"username": "karlseguin", "project": "ccache", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "license.txt"}], "docs": ["readme.md"], "non_go_directories": [], "dependency_directories": []}}

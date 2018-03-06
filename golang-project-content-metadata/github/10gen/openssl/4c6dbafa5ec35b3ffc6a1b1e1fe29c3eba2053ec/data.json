@@ -1,0 +1,1 @@
+{"commit": "4c6dbafa5ec35b3ffc6a1b1e1fe29c3eba2053ec", "artefact": "golang-project-content-metadata", "repository": {"username": "10gen", "project": "openssl", "provider": "github"}, "metadata": {"licenses": [{"type": "*No copyright* Apache (v2.0) GENERATED FILE", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

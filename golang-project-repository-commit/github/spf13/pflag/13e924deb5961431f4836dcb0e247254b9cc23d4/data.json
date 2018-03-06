@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "shenwei356 <shenwei356@gmail.com>", "cdate": 1475772080, "adate": 1475772080, "commit": "13e924deb5961431f4836dcb0e247254b9cc23d4", "message": "fix bug of string_slice with square brackets\n"}

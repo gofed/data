@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1478731777, "adate": 1478731777, "commit": "be7f043b9af82260428d8c40b0c2ae5d61b74664", "message": "hcl/printer: multiline comments shouldn't indent lines 2+\n"}

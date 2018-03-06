@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Hardik Bagdi <hbagdi1@binghamton.edu>", "cdate": 1484583934, "adate": 1484579989, "commit": "230dccf1ce4c1cceafbfd56cad82416595edb102", "message": "add badges to README.md\n"}

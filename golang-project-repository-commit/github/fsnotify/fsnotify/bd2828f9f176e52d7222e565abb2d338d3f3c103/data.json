@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Nathan Youngman <git@nathany.com>", "cdate": 1476321739, "adate": 1476321739, "commit": "bd2828f9f176e52d7222e565abb2d338d3f3c103", "message": "replace references to OS X with macOS\n\n[ci skip]\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1492819371, "adate": 1492819371, "commit": "cc8532a8e9a55ea36402aa21efdf403a60d34096", "message": "Update .travis.yml"}

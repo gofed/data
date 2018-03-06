@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Seth Vargo <sethvargo@gmail.com>", "cdate": 1475898351, "adate": 1475898351, "commit": "69969c2a204c0e6ab482a09e1c4dbf2ffdbdbf95", "message": "Only test master\n"}

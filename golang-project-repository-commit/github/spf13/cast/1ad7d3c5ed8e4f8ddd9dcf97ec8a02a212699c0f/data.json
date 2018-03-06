@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488575827, "adate": 1488575476, "commit": "1ad7d3c5ed8e4f8ddd9dcf97ec8a02a212699c0f", "message": "Use single defined error for negatives\n"}

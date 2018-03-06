@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "bogem <albertnigma@gmail.com>", "cdate": 1471677356, "adate": 1471677356, "commit": "6ca95541eb211fa1846ea9319fd3466f489af795", "message": "Fix verbs for *bool in bool test\n"}

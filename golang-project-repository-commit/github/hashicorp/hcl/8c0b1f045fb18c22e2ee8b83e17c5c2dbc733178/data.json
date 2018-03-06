@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1485303554, "adate": 1485303554, "commit": "8c0b1f045fb18c22e2ee8b83e17c5c2dbc733178", "message": "hcl/printer: verify list element with one heredoc is formatted properly\n"}

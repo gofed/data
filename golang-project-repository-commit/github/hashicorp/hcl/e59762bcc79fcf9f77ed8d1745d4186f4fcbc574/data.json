@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1484874362, "adate": 1484874362, "commit": "e59762bcc79fcf9f77ed8d1745d4186f4fcbc574", "message": "hcl/parser: support bools in lists\n"}

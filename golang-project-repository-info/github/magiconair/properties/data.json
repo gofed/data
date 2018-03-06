@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-info", "branches": [{"commits": [], "branch": "issue-23-ignore-ws-lines"}, {"commits": ["be5ece7dd465ab0765a9682137865547526d1dfb"], "branch": "master"}], "coverage": [{"start": 1499690939, "end": 1499690939}], "repository": {"username": "magiconair", "project": "properties", "provider": "github"}}

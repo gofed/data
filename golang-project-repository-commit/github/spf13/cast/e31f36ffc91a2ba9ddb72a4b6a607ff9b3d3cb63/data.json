@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1469870437, "adate": 1469870437, "commit": "e31f36ffc91a2ba9ddb72a4b6a607ff9b3d3cb63", "message": "Log the To* invocations as TRACE\n\nIt gets very chatty at DEBUG.\n"}

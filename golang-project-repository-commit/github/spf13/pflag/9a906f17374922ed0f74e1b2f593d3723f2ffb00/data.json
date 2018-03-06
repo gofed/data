@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1491401912, "adate": 1491401912, "commit": "9a906f17374922ed0f74e1b2f593d3723f2ffb00", "message": "Prevent changing order of flags after SetNormalizeFunc() (#121)\n\nFix #120"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "go-yaml", "project": "yaml", "provider": "github"}, "author": "Roger Peppe <rogpeppe@gmail.com>", "cdate": 1500627356, "adate": 1500627356, "commit": "835086a6b6aa65939515e30b5d6c2eba43d7c075", "message": "Merge pull request #94 from mvo5/feature/embeded-structs-example\n\nAdd embedded structs example"}

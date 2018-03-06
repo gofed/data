@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Marius <maerious@gmail.com>", "cdate": 1473104803, "adate": 1473104803, "commit": "28370ddc98ee745adcba4f7c3b5b4ea07a4d85e3", "message": "json/parser: set Assign property when parsing object item\n"}

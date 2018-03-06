@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1495546367, "adate": 1495532383, "commit": "0efa5202c04663c757d84f90f5219c1250baf94f", "message": "Add BenchmarkLogPrintOnlyToCounter\n"}

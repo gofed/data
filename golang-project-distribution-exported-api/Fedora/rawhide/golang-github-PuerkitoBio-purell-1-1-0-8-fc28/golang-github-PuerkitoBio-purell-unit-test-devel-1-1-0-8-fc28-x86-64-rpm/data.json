@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-PuerkitoBio-purell-1.1.0-8.fc28", "commit": "0bcb03f4b4d0a9428594752bd2a3b9aa0a9d4bd4", "distribution": "rawhide", "packages": [], "rpm": "golang-github-PuerkitoBio-purell-unit-test-devel-1.1.0-8.fc28.x86_64.rpm"}

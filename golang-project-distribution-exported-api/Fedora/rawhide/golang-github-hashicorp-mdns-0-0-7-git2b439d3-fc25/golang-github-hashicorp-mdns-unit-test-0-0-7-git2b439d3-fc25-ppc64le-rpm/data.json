@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-mdns-0-0.7.git2b439d3.fc25", "commit": "2b439d37011456df8ff83a70ffd1cd6046410113", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-mdns-unit-test-0-0.7.git2b439d3.fc25.ppc64le.rpm"}

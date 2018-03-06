@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Seth Vargo <sethvargo@gmail.com>", "cdate": 1477929547, "adate": 1477929547, "commit": "29ca4441dd56ee2a4241fafdccb11845541ea76a", "message": "Add failing format example\n"}

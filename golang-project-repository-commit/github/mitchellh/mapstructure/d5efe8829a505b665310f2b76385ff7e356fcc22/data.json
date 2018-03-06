@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Vladimir Skipor <skipor@yandex-team.ru>", "cdate": 1484660470, "adate": 1484660470, "commit": "d5efe8829a505b665310f2b76385ff7e356fcc22", "message": "verbose decode hook errors\n"}

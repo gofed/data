@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493706273, "adate": 1493706273, "commit": "af3f9476f44af557ff112beb010dac5da672b6cc", "message": "Update .travis.yml\n"}

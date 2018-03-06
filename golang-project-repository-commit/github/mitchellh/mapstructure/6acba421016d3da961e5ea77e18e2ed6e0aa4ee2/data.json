@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1476980152, "adate": 1476980152, "commit": "6acba421016d3da961e5ea77e18e2ed6e0aa4ee2", "message": "Embedded non-structs are supported (such as slices)\n"}

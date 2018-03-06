@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "go-yaml", "project": "yaml", "provider": "github"}, "author": "Roger Peppe <rogpeppe@gmail.com>", "cdate": 1500629217, "adate": 1500629217, "commit": "d56ec34a3ded0bb58c82198664664ccb81eec91b", "message": "move embedded struct example into godoc\n\nExamples are nicer when they're shown in the godoc.\n"}

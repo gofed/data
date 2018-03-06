@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "xordataexchange", "project": "crypt", "provider": "github"}, "author": "Daniel Mitchell <dmitchell@xor.exchange>", "cdate": 1498513591, "adate": 1498512008, "commit": "528a2b56a97ef9bfd0963f0cad0f40bc44592a2b", "message": "add *WithContext methods to etcd backend client\n"}

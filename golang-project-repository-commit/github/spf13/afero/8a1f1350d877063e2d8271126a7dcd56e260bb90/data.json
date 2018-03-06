@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Martin Bertschler <mbertschler@gmail.com>", "cdate": 1481221162, "adate": 1481221162, "commit": "8a1f1350d877063e2d8271126a7dcd56e260bb90", "message": "Merge pull request #99 from moorereason/unused\n\nRemove unused code"}

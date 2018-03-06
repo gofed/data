@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1471324541, "adate": 1471324541, "commit": "f12c6236fe7b5cf6bcf30e5935d08cb079d78334", "message": "Bump Travis to Go 1.6.3 (#156)\n\n"}

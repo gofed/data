@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1487349706, "adate": 1487349706, "commit": "9be650865eab0c12963d8753212f4f9c66cdcf12", "message": "travis: Bump to Go 1.7.5 and 1.8\n"}

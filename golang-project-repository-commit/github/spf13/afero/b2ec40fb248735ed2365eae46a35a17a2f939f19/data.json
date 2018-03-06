@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1482730986, "adate": 1482730986, "commit": "b2ec40fb248735ed2365eae46a35a17a2f939f19", "message": "Fix data races in MemMapFs.Chmod and Chtimes\n\nFixes #112\n"}

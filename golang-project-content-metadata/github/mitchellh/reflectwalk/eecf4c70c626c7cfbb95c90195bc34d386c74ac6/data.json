@@ -1,0 +1,1 @@
+{"commit": "eecf4c70c626c7cfbb95c90195bc34d386c74ac6", "artefact": "golang-project-content-metadata", "repository": {"username": "mitchellh", "project": "reflectwalk", "provider": "github"}, "metadata": {"licenses": [{"type": "MIT/X11 (BSD like)", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

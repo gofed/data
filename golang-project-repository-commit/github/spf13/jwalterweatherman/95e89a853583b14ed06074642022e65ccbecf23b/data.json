@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1495546367, "adate": 1495531912, "commit": "95e89a853583b14ed06074642022e65ccbecf23b", "message": "Make loggers print to n.outHandle instead of os.Stdout\n"}

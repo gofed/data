@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493706338, "adate": 1493706338, "commit": "c990990ab4981d84da820b7b00c85139ca150b5f", "message": "Add Go 1.8.1 to .travis.yml\n"}

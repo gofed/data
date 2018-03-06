@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "John.Koepi <john.koepi@gmail.com>", "cdate": 1485251399, "adate": 1485251399, "commit": "1f0178eda5f063a5563c29bd7ddd95d9aecbe939", "message": "fix decode slice in zero fields false case\n"}

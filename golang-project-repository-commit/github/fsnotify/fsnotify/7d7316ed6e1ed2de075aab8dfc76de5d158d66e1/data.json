@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Nathan Youngman <git@nathany.com>", "cdate": 1488426129, "adate": 1471324780, "commit": "7d7316ed6e1ed2de075aab8dfc76de5d158d66e1", "message": "travis: update for Go 1.8\n\ntwo most recent stable versions + tip\n"}

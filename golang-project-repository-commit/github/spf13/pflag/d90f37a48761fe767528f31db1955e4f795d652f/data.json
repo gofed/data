@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1490471302, "adate": 1490471302, "commit": "d90f37a48761fe767528f31db1955e4f795d652f", "message": "Add SortFlags option (#113)\n\nFixes https://github.com/spf13/cobra/issues/316"}

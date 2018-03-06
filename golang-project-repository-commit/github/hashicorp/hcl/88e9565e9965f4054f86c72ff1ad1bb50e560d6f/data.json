@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1485810411, "adate": 1485810411, "commit": "88e9565e9965f4054f86c72ff1ad1bb50e560d6f", "message": "Merge pull request #185 from hashicorp/f-list-of-lists\n\nhcl/parser: parse list of lists"}

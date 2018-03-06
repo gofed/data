@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Zhao Jiangkun <jiangkun.zhao@ele.me>", "cdate": 1497608440, "adate": 1497608440, "commit": "3d6940201307daf8a32a3f3fb9ce425432afb61a", "message": "Add support string to bytes slice\n"}

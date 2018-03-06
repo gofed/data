@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1484584371, "adate": 1484584371, "commit": "51268031d79952516489a9f8aa34e9709b98d946", "message": "Merge pull request #110 from hardikbagdi/master\n\nadd badges to README.md"}

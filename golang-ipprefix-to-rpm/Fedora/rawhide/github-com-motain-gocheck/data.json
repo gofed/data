@@ -1,1 +1,1 @@
-{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/motain/gocheck", "build": "golang-gopkg-check-1-16.fc27", "commit": "4f90aeace3a26ad7021961c297b22c42160c7b25", "distribution": "rawhide", "rpm": "golang-gopkg-check-devel-1-16.fc27.noarch.rpm"}
+{"artefact": "golang-ipprefix-to-rpm", "product": "Fedora", "ipprefix": "github.com/motain/gocheck", "build": "golang-gopkg-check-1-17.fc28", "commit": "4f90aeace3a26ad7021961c297b22c42160c7b25", "distribution": "rawhide", "rpm": "golang-gopkg-check-devel-1-17.fc28.noarch.rpm"}

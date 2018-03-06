@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "James Bardin <j.bardin@gmail.com>", "cdate": 1474030860, "adate": 1474030860, "commit": "ef8133da8cda503718a74741312bf50821e6de79", "message": "Merge pull request #152 from hashicorp/jbardin/undecoded\n\nmissing fields when decoding JSON"}

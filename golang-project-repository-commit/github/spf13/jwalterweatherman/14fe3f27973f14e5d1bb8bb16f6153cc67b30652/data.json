@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1483458868, "adate": 1483441995, "commit": "14fe3f27973f14e5d1bb8bb16f6153cc67b30652", "message": "Refactor so it can be used in non-global settings\n"}

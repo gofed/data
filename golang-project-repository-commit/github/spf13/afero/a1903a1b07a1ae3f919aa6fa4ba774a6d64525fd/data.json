@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Harsimran Singh Maan <maan.harry@gmail.com>", "cdate": 1479884047, "adate": 1479884047, "commit": "a1903a1b07a1ae3f919aa6fa4ba774a6d64525fd", "message": "Keep gofmt happy\n"}

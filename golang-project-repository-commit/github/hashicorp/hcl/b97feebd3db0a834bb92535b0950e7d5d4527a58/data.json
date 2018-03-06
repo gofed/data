@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1480539498, "adate": 1480539498, "commit": "b97feebd3db0a834bb92535b0950e7d5d4527a58", "message": "Merge pull request #172 from hashicorp/b-println\n\nhcl/parser: don't print \"illegal\""}

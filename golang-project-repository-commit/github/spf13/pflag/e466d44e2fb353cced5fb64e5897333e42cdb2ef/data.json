@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234441, "adate": 1492505713, "commit": "e466d44e2fb353cced5fb64e5897333e42cdb2ef", "message": "Delete setFlag\n"}

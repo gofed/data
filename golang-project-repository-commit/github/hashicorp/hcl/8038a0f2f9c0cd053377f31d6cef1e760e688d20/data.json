@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1478023160, "adate": 1478023160, "commit": "8038a0f2f9c0cd053377f31d6cef1e760e688d20", "message": "hcl/printer: proper spacing between comments (see test case)\n"}

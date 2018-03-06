@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1485993839, "adate": 1485993839, "commit": "47562ccf19d3299abea5efdde59d844418301d72", "message": "hcl/printer: cleaner handling of standalone comments at end of file\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1470320030, "adate": 1470320030, "commit": "f676131e2660dc8cd88de99f7486d34aa8172635", "message": "Merge pull request #84 from apelisse/fix-empty-string-slice\n\nFix string_slice with empty value"}

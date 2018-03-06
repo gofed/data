@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1478023225, "adate": 1478023225, "commit": "6e968a3fcdcbab092f5307fd0d85479d5af1e4dc", "message": "Merge pull request #163 from hashicorp/sethvargo/failing_fmt\n\nAdd failing format example"}

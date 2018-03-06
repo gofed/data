@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234441, "adate": 1492530244, "commit": "94213426a82552526e0afa13324b9f3a2754cb6f", "message": "Add comments for better understanding of parsing short flags\n"}

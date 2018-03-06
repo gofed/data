@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Seth Vargo <sethvargo@gmail.com>", "cdate": 1475898454, "adate": 1475898454, "commit": "d89a50c8795d63317db85dd7d89f2b48892c4b3f", "message": "Merge pull request #155 from hashicorp/sethvargo/it\n\nAdd issue template"}

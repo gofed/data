@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1495546367, "adate": 1495531799, "commit": "e2ae073d836da49f6c1b778c85121c9a5de742f7", "message": "Use array for n.loggers\n"}

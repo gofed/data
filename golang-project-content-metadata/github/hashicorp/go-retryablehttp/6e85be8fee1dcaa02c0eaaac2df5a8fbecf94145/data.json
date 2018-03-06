@@ -1,0 +1,1 @@
+{"commit": "6e85be8fee1dcaa02c0eaaac2df5a8fbecf94145", "artefact": "golang-project-content-metadata", "repository": {"username": "hashicorp", "project": "go-retryablehttp", "provider": "github"}, "metadata": {"licenses": [{"type": "*No copyright* MPL (v2.0)", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

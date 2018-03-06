@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "jwalterweatherman", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1494405511, "adate": 1494400262, "commit": "8f07c835e5cc1450c082fe3a439cf87b0cbb2d99", "message": "Add Print to Feedback and delete redundant comments\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1475703760, "adate": 1475703760, "commit": "4bd69631f4750a9df249ee317f4536e02cbc3c65", "message": "Merge pull request #94 from bogem/noverbs\n\nOptimize fmt statements"}

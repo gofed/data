@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488560824, "adate": 1488559552, "commit": "4f1683a2242a92e62d6ff705a30e435cbf2b50a3", "message": "Update and standardize error messages\n"}

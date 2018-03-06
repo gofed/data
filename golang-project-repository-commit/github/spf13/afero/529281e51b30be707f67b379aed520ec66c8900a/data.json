@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1475550231, "adate": 1475550231, "commit": "529281e51b30be707f67b379aed520ec66c8900a", "message": "Remove unused code\n"}

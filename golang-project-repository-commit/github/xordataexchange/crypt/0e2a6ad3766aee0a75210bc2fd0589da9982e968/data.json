@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "xordataexchange", "project": "crypt", "provider": "github"}, "author": "Horacio Duran <horacio.duran@gmail.com>", "cdate": 1498507045, "adate": 1498507045, "commit": "0e2a6ad3766aee0a75210bc2fd0589da9982e968", "message": "Upgraded etcd library to current supported.\n"}

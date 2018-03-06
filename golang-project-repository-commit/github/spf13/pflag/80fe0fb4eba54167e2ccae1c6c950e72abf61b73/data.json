@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1493995016, "adate": 1493991653, "commit": "80fe0fb4eba54167e2ccae1c6c950e72abf61b73", "message": "Testing for Shorthand Lookup\n"}

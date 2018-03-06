@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "cast", "provider": "github"}, "author": "Cameron Moore <moorereason@gmail.com>", "cdate": 1488626568, "adate": 1488571153, "commit": "ce135a4ebeee6cfe9a26c93ee0d37825f26113c7", "message": "Add Travis CI\n"}

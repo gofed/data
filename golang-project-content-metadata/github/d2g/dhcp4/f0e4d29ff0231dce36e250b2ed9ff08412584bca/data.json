@@ -1,0 +1,1 @@
+{"commit": "f0e4d29ff0231dce36e250b2ed9ff08412584bca", "artefact": "golang-project-content-metadata", "repository": {"username": "d2g", "project": "dhcp4", "provider": "github"}, "metadata": {"licenses": [{"type": "BSD (3 clause)", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Nathan Youngman <git@nathany.com>", "cdate": 1475384120, "adate": 1475384120, "commit": "c3181d85d3dd50c73ee7fb7cca421abf85b6bf37", "message": "add @oozie to AUTHORS\n\n[ci skip]\n"}

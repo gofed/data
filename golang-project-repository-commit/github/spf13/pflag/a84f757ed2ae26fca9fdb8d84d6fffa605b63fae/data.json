@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Charlie R.C <chenr.fnst@cn.fujitsu.com>", "cdate": 1493961587, "adate": 1493961587, "commit": "a84f757ed2ae26fca9fdb8d84d6fffa605b63fae", "message": "Allow lookup by shorthand (#106)\n\n"}

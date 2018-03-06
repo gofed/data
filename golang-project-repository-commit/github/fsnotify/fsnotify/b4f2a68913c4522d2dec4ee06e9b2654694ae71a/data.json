@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Patrick <patrick@dropbox.com>", "cdate": 1475633381, "adate": 1475633381, "commit": "b4f2a68913c4522d2dec4ee06e9b2654694ae71a", "message": "rm go1.5.4 from travis config since the linter doesn't build in 1.5 (#175)\n\n"}

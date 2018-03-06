@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Matthew Winter <matt@winter.fm>", "cdate": 1490624024, "adate": 1490624024, "commit": "d16db1e50e33dff1b6cdf37596cef36742128670", "message": "Modified to display a string default value as double quoted and escaped (#118)\n\n"}

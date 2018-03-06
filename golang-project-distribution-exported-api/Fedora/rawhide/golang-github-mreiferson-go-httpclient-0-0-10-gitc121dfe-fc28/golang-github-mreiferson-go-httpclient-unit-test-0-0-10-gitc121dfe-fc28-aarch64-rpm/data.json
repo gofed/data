@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-mreiferson-go-httpclient-0-0.10.gitc121dfe.fc28", "commit": "c121dfe45d66997e43e25a6823fbe7466c8403fe", "distribution": "rawhide", "packages": [], "rpm": "golang-github-mreiferson-go-httpclient-unit-test-0-0.10.gitc121dfe.fc28.aarch64.rpm"}

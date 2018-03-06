@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Vahe Khachikyan <vahe@live.ca>", "cdate": 1485497410, "adate": 1478113990, "commit": "a904159b9206978bb6d53fcc7a769e5cd726c737", "message": "Moved FAQ into the README\n\ncloses #186\nref #129\n\n[ci skip]\n"}

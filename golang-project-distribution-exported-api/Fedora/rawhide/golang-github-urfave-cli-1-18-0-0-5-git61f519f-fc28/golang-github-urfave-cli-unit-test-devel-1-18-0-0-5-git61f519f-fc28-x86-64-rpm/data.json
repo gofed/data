@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-urfave-cli-1.18.0-0.5.git61f519f.fc28", "commit": "61f519fe5e57c2518c03627b194899a105838eba", "distribution": "rawhide", "packages": [], "rpm": "golang-github-urfave-cli-unit-test-devel-1.18.0-0.5.git61f519f.fc28.x86_64.rpm"}

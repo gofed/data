@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Bj\u00f8rn Erik Pedersen <bjorn.erik.pedersen@gmail.com>", "cdate": 1471334877, "adate": 1471334877, "commit": "b28a7effac979219c2a2ed6205a4d70e4b1bcd02", "message": "Add Go 1.7 to Travis config\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "wu8685 <optimuswu8685@gmail.com>", "cdate": 1473161735, "adate": 1473161735, "commit": "191ef6fd817dfda320833b43a97932f049562514", "message": "add a new type StringArray\n"}

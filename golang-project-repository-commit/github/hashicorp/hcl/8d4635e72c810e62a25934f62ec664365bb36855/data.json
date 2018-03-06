@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1475908839, "adate": 1475908839, "commit": "8d4635e72c810e62a25934f62ec664365bb36855", "message": "hcl/parser: literal elements in a list can have a lead comment\n"}

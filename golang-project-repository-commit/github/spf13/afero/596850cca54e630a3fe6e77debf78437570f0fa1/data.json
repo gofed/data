@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Theotime Leveque <theotime.leveque@dailymotion.com>", "cdate": 1490481074, "adate": 1490481074, "commit": "596850cca54e630a3fe6e77debf78437570f0fa1", "message": "readme: remove inferred type from AppFs declaration.\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234295, "adate": 1493234295, "commit": "af10531e7528b9f461bb5a14e70b1ca615882945", "message": "Note about SortFlags in README"}

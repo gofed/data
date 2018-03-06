@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Sotirios Mantziaris <smantziaris@gmail.com>", "cdate": 1484002400, "adate": 1484002400, "commit": "72b31426848c6ef12a7a8e216708cb0d1530f074", "message": "Eliminate go vet warnings\n\n"}

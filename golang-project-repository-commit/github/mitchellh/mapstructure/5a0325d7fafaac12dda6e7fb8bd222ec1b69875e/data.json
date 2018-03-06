@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "Mitchell Hashimoto <xmitchx@gmail.com>", "cdate": 1480829718, "adate": 1480829718, "commit": "5a0325d7fafaac12dda6e7fb8bd222ec1b69875e", "message": "Merge pull request #60 from nmiyake/patch-1\n\nFix typo in documentation"}

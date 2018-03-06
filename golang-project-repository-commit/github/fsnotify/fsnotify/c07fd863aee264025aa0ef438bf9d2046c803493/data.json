@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "fsnotify", "project": "fsnotify", "provider": "github"}, "author": "Nathan Youngman <git@nathany.com>", "cdate": 1475385440, "adate": 1475385440, "commit": "c07fd863aee264025aa0ef438bf9d2046c803493", "message": "readme: remove gocover.io badge\n\n[ci skip]\n"}

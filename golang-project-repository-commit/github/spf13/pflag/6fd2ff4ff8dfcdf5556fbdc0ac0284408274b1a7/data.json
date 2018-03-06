@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Eric Paris <eparis@redhat.com>", "cdate": 1473169414, "adate": 1473169414, "commit": "6fd2ff4ff8dfcdf5556fbdc0ac0284408274b1a7", "message": "Merge pull request #90 from wu8685/string_array\n\nadd a new type StringArray"}

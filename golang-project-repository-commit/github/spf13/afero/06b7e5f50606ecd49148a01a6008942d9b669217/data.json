@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "afero", "provider": "github"}, "author": "Travis Yoder <trayoda@gmail.com>", "cdate": 1478650193, "adate": 1478650193, "commit": "06b7e5f50606ecd49148a01a6008942d9b669217", "message": "Fix typo in RemoveAll code comment\n\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1494269048, "adate": 1494269006, "commit": "e57e3eeb33f795204c1ca35f56c44f83227c6e66", "message": "Delete example, what isn't even shown in docs\n"}

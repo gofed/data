@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mitchell Hashimoto <mitchell.hashimoto@gmail.com>", "cdate": 1472835139, "adate": 1472835139, "commit": "99df0eb941dd8ddbc83d3f3605a34f6a686ac85e", "message": "Test that #121 doesn't happen\n"}

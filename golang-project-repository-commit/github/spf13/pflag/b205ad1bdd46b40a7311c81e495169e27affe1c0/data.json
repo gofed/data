@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1490424238, "adate": 1490424238, "commit": "b205ad1bdd46b40a7311c81e495169e27affe1c0", "message": "Change `ogier` to `spf13` in docs and README\n"}

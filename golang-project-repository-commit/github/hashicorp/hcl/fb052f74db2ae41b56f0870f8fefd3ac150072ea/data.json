@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Mark Pim <j.mark.pim@gmail.com>", "cdate": 1478978096, "adate": 1478978096, "commit": "fb052f74db2ae41b56f0870f8fefd3ac150072ea", "message": "Remove duplicate unit test\n"}

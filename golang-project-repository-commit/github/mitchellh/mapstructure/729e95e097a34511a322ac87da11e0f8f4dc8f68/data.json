@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "mitchellh", "project": "mapstructure", "provider": "github"}, "author": "dshilin <sdadeveloper@gmail.com>", "cdate": 1475764597, "adate": 1475764597, "commit": "729e95e097a34511a322ac87da11e0f8f4dc8f68", "message": "remove redundant variable of for loop\n"}

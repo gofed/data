@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493963395, "adate": 1493963395, "commit": "86425cb5c94235b7fcd9e788f53a0fa84130b470", "message": "Add example to ShorthandLookup\n"}

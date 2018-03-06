@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Jelte Fennema <github-tech@jeltef.nl>", "cdate": 1494370439, "adate": 1493974717, "commit": "392dba7d905ed5d04a5794ba89f558b27e2ba1ca", "message": "Support decoding HCL floats into Go float32\n"}

@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "James Bardin <j.bardin@gmail.com>", "cdate": 1474030454, "adate": 1473970769, "commit": "88422edf64d1ae3c0fc4baa520a57fd910c41901", "message": "Update Makefile with new deps, go1.7 in travis\n"}

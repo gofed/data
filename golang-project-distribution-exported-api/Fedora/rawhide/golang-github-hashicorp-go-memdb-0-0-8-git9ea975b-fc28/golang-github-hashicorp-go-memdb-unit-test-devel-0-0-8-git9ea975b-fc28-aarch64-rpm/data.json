@@ -1,0 +1,1 @@
+{"artefact": "golang-project-distribution-exported-api", "product": "Fedora", "build": "golang-github-hashicorp-go-memdb-0-0.8.git9ea975b.fc28", "commit": "9ea975be0e31ada034a5760340d4892f3f543d20", "distribution": "rawhide", "packages": [], "rpm": "golang-github-hashicorp-go-memdb-unit-test-devel-0-0.8.git9ea975b.fc28.aarch64.rpm"}

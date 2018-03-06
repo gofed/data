@@ -1,0 +1,1 @@
+{"commit": "0940f3fc43a0ed42d04916b1c04578462c650b09", "artefact": "golang-project-content-metadata", "repository": {"username": "wsxiaoys", "project": "terminal", "provider": "github"}, "metadata": {"licenses": [{"type": "BSD (3 clause)", "file": "LICENSE"}], "docs": ["README.md"], "non_go_directories": [], "dependency_directories": []}}

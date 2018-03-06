@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "Albert Nigmatzianov <albertnigma@gmail.com>", "cdate": 1493234441, "adate": 1492604815, "commit": "1d9fab458082a6f06834b844d331fb039a6821b3", "message": "Use f.out in output flag deprecation\n"}

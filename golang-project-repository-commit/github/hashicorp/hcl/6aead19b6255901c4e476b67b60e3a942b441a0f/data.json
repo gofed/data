@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "hashicorp", "project": "hcl", "provider": "github"}, "author": "Seth Vargo <sethvargo@gmail.com>", "cdate": 1475898203, "adate": 1475898203, "commit": "6aead19b6255901c4e476b67b60e3a942b441a0f", "message": "Add issue template\n"}

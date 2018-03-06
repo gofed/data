@@ -1,0 +1,1 @@
+{"artefact": "golang-project-repository-commit", "repository": {"username": "spf13", "project": "pflag", "provider": "github"}, "author": "bogem <albertnigma@gmail.com>", "cdate": 1471677471, "adate": 1471677471, "commit": "b38ddae17129b3c437006f13d3cfef7b31b0fd87", "message": "Add check of error in int slice test\n"}
